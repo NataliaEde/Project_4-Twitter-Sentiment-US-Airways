@@ -24,9 +24,11 @@ A WordCloud visualization to identify the most common words in positive and nega
 Model evaluation using various machine learning algorithms with a focus on accuracy, including BERT-based models and XGBoost models with TF-IDF and CountVectorization. The use of Hugging Face's powerful NLP tools and an LSTM model for sentiment analysis.
 
 
-
-
+<img width="1054" alt="Screen Shot 2023-04-17 at 3 31 10 PM" src="https://user-images.githubusercontent.com/44559346/232613132-d93daec7-875c-4269-b55f-45e9926edaa2.png">
 
 
 
 SHAP (SHapley Additive exPlanations) was used to explain the predictions of the best-performing models, providing insights into the most important features driving sentiment classification. This tool was particularly useful in understanding the decision-making processes of the BERT-based and XGBoost models.
+
+![image](https://user-images.githubusercontent.com/44559346/232613784-be638bdf-8e47-466c-8540-9dbc69de9982.png)
+
