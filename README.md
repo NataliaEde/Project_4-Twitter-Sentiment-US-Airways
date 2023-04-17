@@ -3,8 +3,6 @@
 <img width="451" alt="Screen Shot 2023-04-07 at 10 27 26 AM" src="https://user-images.githubusercontent.com/44559346/230625618-13316618-fcf1-4b9b-b59d-83103c447bd0.png">
 
 
-
-
 ### Data
 
 https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
@@ -31,4 +29,8 @@ Model evaluation using various machine learning algorithms with a focus on accur
 SHAP (SHapley Additive exPlanations) was used to explain the predictions of the best-performing models, providing insights into the most important features driving sentiment classification. This tool was particularly useful in understanding the decision-making processes of the BERT-based and XGBoost models.
 
 ![image](https://user-images.githubusercontent.com/44559346/232613784-be638bdf-8e47-466c-8540-9dbc69de9982.png)
+
+Conclusion:
+
+We explored a dataset of tweets about major airlines to perform sentiment analysis. By analyzing the top words and evaluating different models, we gained valuable insights into customer sentiment, which airlines can use to improve their services and enhance customer satisfaction. By continuing to monitor and analyze social media sentiment, airlines can stay ahead of the competition and provide an even better travel experience for their customers.
 
