@@ -7,7 +7,9 @@ Welcome to my project on airline sentiment analysis. In this project, I aim to a
 
 ### Data
 
-The Twitter Airline Sentiment dataset consisting of approximately 14,640 tweets about six major U.S. airlines, collected during February 2015. The tweets have been classified into three sentiment categories: positive, negative, and neutral. https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
+The Twitter Airline Sentiment dataset consisting of approximately 14,640 tweets about six major U.S. airlines, collected during February 2015. The tweets have been classified into three sentiment categories: positive, negative, and neutral. I narrowed down the dataset to a little over 7,000 tweets to ensure the data is balanced.
+
+https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
 
 ### Here's a brief overview of this project's key components:
 
