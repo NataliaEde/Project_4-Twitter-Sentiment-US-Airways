@@ -33,4 +33,4 @@ We explored a dataset of tweets about major airlines to perform sentiment analys
 
 **************
 
-US Airline Sentiment Analysis: Repo includes notebook in PDF, code, and presentation
+Repo includes notebook in PDF, code, and presentation
