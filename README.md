@@ -31,3 +31,6 @@ Conclusion:
 
 We explored a dataset of tweets about major airlines to perform sentiment analysis. By analyzing the top words and evaluating different models, we gained valuable insights into customer sentiment, which airlines can use to improve their services and enhance customer satisfaction. By continuing to monitor and analyze social media sentiment, airlines can stay ahead of the competition and provide an even better travel experience for their customers.
 
+**************
+
+US Airline Sentiment Analysis: Repo Includes Notebook in PDF, Code, and Presentation
